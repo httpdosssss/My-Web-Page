@@ -1,0 +1,25 @@
+body {
+    background-image: url("cute.jpeg");
+    background-color: #f53f76;
+   }
+
+h1 {
+  color: rgb(0, 0, 0);
+  font-family: verdana;
+  font-size: 300%;
+}
+p {
+  color: rgb(0, 0, 0);
+  font-family: Monospace;
+  font-size: 200%;
+}
+h2 {
+    color: rgb(255, 124, 124);
+    font-family: verdana;
+    font-size: 200%;
+}
+h3 {
+        color: rgb(255, 124, 124);
+        font-family: verdana;
+        font-size: 200%;
+}
